@@ -11,4 +11,4 @@ This is the first clone of the AirBnB (online platform for rental accommodations
 
 | Name          | Description           | Use     |
 | ------------- | --------------------- | ------------- |
-| create        | Creates a new instance of a specified class, saves it (to the JSON file) and prints the id. | 'create [class_name]' |
+| create        | Creates a new instance of a specified class, saves it (to the JSON file) and prints the id. | `create [class_name]` |
